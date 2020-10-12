@@ -1,0 +1,39 @@
+.btn1 {
+  width: 20%;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #00FF00;
+  type:submit;
+}
+.btn2 {
+  width: 20%;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #00BFFF;
+  type:submit;
+}
+.btn3 {
+  width: 20%;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #FFD700;
+  type:submit;
+}

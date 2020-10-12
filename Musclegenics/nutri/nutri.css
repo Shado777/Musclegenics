@@ -1,0 +1,32 @@
+.flexBox{
+  padding: 80px;
+  left:0;
+  diplay:block;
+  background-color:white;
+  width:cover;
+  height:120px;
+}
+.col1 {
+  top:50px;
+  float: left;
+  width: 30%;
+  height: 20%;
+}
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row3::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+img{
+  width:60%;
+}
